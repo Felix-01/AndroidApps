@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Harvey\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\helloandroid.xml",
+        "source": "C:\\Users\\Harvey\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\src\\main\\res\\layout\\helloandroid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harvey\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loginscreen.xml",
+        "source": "C:\\Users\\Harvey\\AndroidStudioProjects\\HelloAndroidWithLogin\\app\\src\\main\\res\\layout\\loginscreen.xml"
+    }
+]
